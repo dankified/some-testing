@@ -1,3 +1,3 @@
 This is the content of index.js
 More content inside of index.js
-More content
+More content from the new branch
